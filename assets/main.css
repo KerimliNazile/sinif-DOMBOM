@@ -1,0 +1,23 @@
+
+.div{
+    background-color: blue;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin: 18px;
+    border-radius: 15px;
+    justify-content: space-between;
+    position: relative;
+}
+.right{
+    background-color: brown;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.left{
+    background-color: rgb(42, 95, 40);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
